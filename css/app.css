@@ -2,14 +2,8 @@ div{
     
     border: 2px;
     padding-block: 4px;
-    /*Converti elementos flexibles*/
-
-    /*Centrar verticalmente*/
-    margin: 2px;
-    
-}
-
-nav{
+    margin: 2 px;
+    nav{
     justify-content: center;
 }
 #titulo{
